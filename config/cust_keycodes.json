@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LEFT_SHIFT + LEFT_GUI + s"
+		],
+		"description": "LEFT_SHIFT + LEFT_GUI + s",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
